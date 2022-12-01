@@ -1,0 +1,12 @@
+1. Sweapale Screens (using PageController, PageView)
+2. Circle Avater
+3. Using Padding to pad text
+4. Customized bottomnavigation bar by setting theme for not showing the clicking effect
+5. Be careful about setState() function. It should be in setState((){}) formate not in setState(){}.!!!!!!!
+6. Learned about Navigation Drawer
+7.  iconTheme: IconThemeData(color: Colors.black), -> use this in AppBar() to change all app bar icon color
+8. Leaned how to use Textfield
+9. Slidig up Panel usage [actually in our case, we'll have to use modal bottom sheet package of flutter]
+10. Visibility widget usage
+11. OnPressed methon of Elevated button
+12. Linking url with icon/button

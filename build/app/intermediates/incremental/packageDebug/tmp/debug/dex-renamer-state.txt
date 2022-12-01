@@ -1,0 +1,4 @@
+#Thu Dec 01 00:54:25 BDT 2022
+base.0=/home/fahad/Documents/FLUTTER_PROJECTS/Google-Meet-Mockup-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
