@@ -13,9 +13,3 @@ My very fast only UI based Project on Flutter. There is no backend functionality
   * How to use CircleAvatar and AssetImage
   * How to use InputDecoration
   * How to use TextButton, TextField and TextEditingController
-<<<<<<< HEAD
-  
- 
-
-=======
->>>>>>> e7acf2e82435e5d8e46f9210c10875225a14a122
